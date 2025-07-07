@@ -1,3 +1,19 @@
+To build the application and the test image please run
+
+`docker-compose build`
+
+To run the API please run
+
+`docker-compose up app`
+
+To run the tests please run
+
+`docker-compose up test`
+
+For simplicity the code has been put in a single file
+
+The API endpoint is called `productionplan`
+
 # powerplant-coding-challenge
 
 
